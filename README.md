@@ -1,7 +1,7 @@
 # 💫 About Me:
 Im currently persuing masters in<br>computer science at oklahoma State university
 
-
+3
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manoj) 
 
